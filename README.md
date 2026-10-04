@@ -1,5 +1,3 @@
-<!-- Premium GitHub Profile README -->
-
 <div align="center">
 
 # 👋 Hi, I'm Praveen
@@ -11,8 +9,12 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Praveenjxb&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
+
+<a href="https://github.com/Praveenjxb">
+  <img src="https://img.shields.io/badge/GitHub-Praveenjxb-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -123,8 +125,8 @@ A machine-learning based system designed to identify potentially fake and mislea
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenjxb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenjxb&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 </p>
 
 ---
@@ -132,7 +134,7 @@ A machine-learning based system designed to identify potentially fake and mislea
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenjxb&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
 ---
@@ -140,16 +142,16 @@ A machine-learning based system designed to identify potentially fake and mislea
 ## 🧠 Currently Learning
 
 ```text
-Java
-Spring Boot
-REST APIs
-JWT Authentication
-Next.js
-React
-MySQL
-Docker
-Git & GitHub
-System Design
+☕ Java
+🌱 Spring Boot
+🔗 REST APIs
+🔐 JWT Authentication
+⚛️ Next.js & React
+🗄️ MySQL
+🐳 Docker
+🔧 Git & GitHub
+🧩 System Design
+💡 Data Structures & Algorithms
 ```
 
 ---
@@ -170,16 +172,12 @@ System Design
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Praveenjxb">
+<img src="https://img.shields.io/badge/GitHub-Praveenjxb-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
