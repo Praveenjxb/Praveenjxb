@@ -1,20 +1,26 @@
+<!-- ========================================= -->
+<!--           PRAVEEN GITHUB README           -->
+<!-- ========================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Praveen
+<img src="./assets/banner.png" width="100%" />
 
-### 💻 Full Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Java & React Developer
+<br><br>
+
+# Hi 👋, I'm Praveen
+
+### 💻 Full Stack Developer
+
+**Just Code. Build. Learn. Repeat.**
+
+<br>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Next.js+Developer;UI%2FUX+Design+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+Building modern web applications with clean architecture,
+<br>
+scalable solutions, and meaningful user experiences.
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Praveenjxb&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<a href="https://github.com/Praveenjxb">
-  <img src="https://img.shields.io/badge/GitHub-Praveenjxb-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
@@ -22,99 +28,39 @@
 
 ## 🚀 About Me
 
-```text
-💻 Full Stack Developer
-🎨 UI/UX Design Enthusiast
-☕ Java & Spring Boot Developer
-⚛️ React & Next.js Developer
-🗄️ MySQL & REST API
-📚 Always Learning New Technologies
-🎯 Focused on Building Real-World Projects
-```
-
----
-
-## 🛠️ Premium Tech Stack
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,postman,git,github" />
-</p>
-
-### 🎨 Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
----
-
-## 💎 Featured Projects
-
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### 🏢 Hall Booking System
+### 👨‍💻 Who Am I?
 
-A modern full-stack hall reservation platform with separate **Admin & User modules**.
+I'm **Praveen**, a Computer Science student and aspiring
+**Full Stack Developer** passionate about building real-world
+applications.
 
-**Tech Stack**
+I enjoy creating modern and responsive web applications using
+**React, Next.js, Java, Spring Boot, and MySQL**.
 
-`Next.js` `React` `Tailwind CSS`
-`Spring Boot` `MySQL` `REST API`
+Currently, I'm focusing on:
 
-</td>
+- 🚀 Full Stack Development
+- ☕ Java & Spring Boot
+- ⚛️ React & Next.js
+- 🔐 JWT Authentication
+- 🗄️ MySQL & REST APIs
+- 🐳 Docker
+- 🧠 Data Structures & Algorithms
+- 🎨 UI/UX Design
 
-<td width="50%">
+My goal is simple:
 
-### 🛒 E-Commerce Platform
-
-Modern e-commerce platform with product browsing, search, filtering, cart and checkout functionality.
-
-**Tech Stack**
-
-`Next.js` `React` `TypeScript`
-`Tailwind CSS` `JSON Server`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🩺 Diabetes Prediction
-
-Machine learning project for predicting diabetes using a **Multilayer Perceptron** model.
-
-**Tech Stack**
-
-`Python` `Machine Learning` `MLP`
+> **Write clean code, build useful software, and continuously improve.**
 
 </td>
 
-<td width="50%">
+<td width="40%" align="center">
 
-### 📰 Fake News Detection
-
-A machine-learning based system designed to identify potentially fake and misleading news content.
-
-**Tech Stack**
-
-`Python` `Machine Learning` `NLP`
+<img src="./assets/about.gif" width="300px" />
 
 </td>
 </tr>
@@ -122,76 +68,212 @@ A machine-learning based system designed to identify potentially fake and mislea
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenjxb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenjxb&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenjxb&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-```text
-☕ Java
-🌱 Spring Boot
-🔗 REST APIs
-🔐 JWT Authentication
-⚛️ Next.js & React
-🗄️ MySQL
-🐳 Docker
-🔧 Git & GitHub
-🧩 System Design
-💡 Data Structures & Algorithms
-```
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build production-ready full-stack applications
-* ☕ Improve Java & Spring Boot skills
-* ⚛️ Master React & Next.js
-* 🔐 Build secure JWT-based applications
-* 🐳 Learn Docker & deployment
-* 💡 Improve problem-solving & DSA
-* 🎨 Create better UI/UX experiences
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Praveenjxb">
-<img src="https://img.shields.io/badge/GitHub-Praveenjxb-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
+# 🤝 Connect
 
 <div align="center">
 
-### ⚡ "Code. Create. Learn. Repeat."
+<a href="https://github.com/Praveenjxb">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
 
-<br>
+&nbsp;&nbsp;
 
-**Thanks for visiting my profile! 🚀**
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+&nbsp;&nbsp;
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
 
 </div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏢 Hall Booking System
+
+A full-stack hall booking platform with separate
+**Admin and User modules**.
+
+### Technologies
+
+`Next.js` `React` `Tailwind CSS`
+
+`Spring Boot` `MySQL` `REST API`
+
+</td>
+
+<td width="50%">
+
+## 🛒 E-Commerce Platform
+
+Modern e-commerce platform with product browsing,
+search, filtering, cart and checkout.
+
+### Technologies
+
+`Next.js` `React` `TypeScript`
+
+`Tailwind CSS` `JSON Server`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🩺 Diabetes Prediction
+
+Machine learning application for diabetes prediction
+using a **Multilayer Perceptron** model.
+
+### Technologies
+
+`Python` `Machine Learning`
+
+`MLP`
+
+</td>
+
+<td width="50%">
+
+## 📰 Fake News Detection
+
+Machine-learning based system for detecting
+potentially fake news.
+
+### Technologies
+
+`Python` `Machine Learning`
+
+`NLP`
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Praveenjxb&show_icons=true&theme=github_dark&hide_border=true&border_radius=10"
+height="180"
+/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenjxb&theme=github-dark-blue&hide_border=true&border_radius=10"
+height="180"
+/>
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenjxb&layout=compact&theme=github_dark&hide_border=true&border_radius=10"
+/>
+
+</div>
+
+---
+
+# 🔥 GitHub Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenjxb&theme=github-compact&hide_border=true&area=true"
+/>
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+| Technology | Focus |
+|---|---|
+| ☕ Java | Advanced Java |
+| 🌱 Spring Boot | Backend Development |
+| ⚛️ React | Frontend Development |
+| ▲ Next.js | Full Stack Applications |
+| 🔐 JWT | Authentication |
+| 🗄️ MySQL | Database Management |
+| 🐳 Docker | Deployment |
+| 🧠 DSA | Problem Solving |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+╔════════════════════════════════════════════╗
+║                                            ║
+║  🚀 Build production-ready applications   ║
+║  ☕ Master Java & Spring Boot              ║
+║  ⚛️  Improve React & Next.js              ║
+║  🔐 Build secure authentication systems   ║
+║  🐳 Learn Docker & Cloud Deployment       ║
+║  🧠 Improve DSA & Problem Solving         ║
+║  🎨 Build better UI/UX experiences        ║
+║                                            ║
+╚════════════════════════════════════════════╝
