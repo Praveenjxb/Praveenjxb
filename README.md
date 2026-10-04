@@ -2,15 +2,7 @@
 
 # 👋 Hi, I'm Praveen
 
-### 💻 Full Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Java & React Developer
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Next.js+Developer;UI%2FUX+Design+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Praveenjxb&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 <a href="https://github.com/Praveenjxb">
   <img src="https://img.shields.io/badge/GitHub-Praveenjxb-181717?style=for-the-badge&logo=github&logoColor=white"/>
